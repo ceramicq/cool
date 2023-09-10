@@ -1,4 +1,4 @@
-/**
+https://www.maimemo.com/share/page?uid=28766351&pid=8fa8614d127e79aea3a8305f92110ec6&tid=430e58aed49ea21da174c9bf41419899/**
 利用随机概率实现多账户运行
 
 填写格式如下：
@@ -20,7 +20,7 @@ const MMSLS = [
  */
 const MMSLS = [
     
-   "https://www.maimemo.com/share/page?uid=28766351&pid=d9a5faf21865164ffcb656a850b149f7&tid=f393083d4df35a6a23dfe2d77c13bb33https://www.maimemo.com/share/page?uid=28766351&pid=d9a5faf21865164ffcb656a850b149f7&tid=f393083d4df35a6a23dfe2d77c13bb33"
+   "https://www.maimemo.com/share/page?uid=28766351&pid=8fa8614d127e79aea3a8305f92110ec6&tid=430e58aed49ea21da174c9bf41419899"
   ]
   /**
    * 生成随机数字
